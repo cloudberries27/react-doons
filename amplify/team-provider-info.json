@@ -1,0 +1,20 @@
+{
+    "dev": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-doons-dev-215839-authRole",
+            "UnauthRoleArn": "arn:aws:iam::833545313223:role/amplify-doons-dev-215839-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::833545313223:role/amplify-doons-dev-215839-authRole",
+            "Region": "us-east-1",
+            "DeploymentBucketName": "amplify-doons-dev-215839-deployment",
+            "UnauthRoleName": "amplify-doons-dev-215839-unauthRole",
+            "StackName": "amplify-doons-dev-215839",
+            "StackId": "arn:aws:cloudformation:us-east-1:833545313223:stack/amplify-doons-dev-215839/ec4e6370-a14f-11ea-aa47-0e4c53e0aefd",
+            "AmplifyAppId": "d3tv3jp88abh7z"
+        },
+        "categories": {
+            "auth": {
+                "doons1d08103b": {}
+            }
+        }
+    }
+}
